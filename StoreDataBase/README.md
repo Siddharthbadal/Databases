@@ -4,15 +4,15 @@ Built and Designed a database using MySQL for a  store owner with multiple table
 Most of the process was performed using MySQL workbench.
 
 Tables:
-	Customers
-	Products
-	Employees
-	Purchases
-	Address
-	Brands
-	Category
-	Customer_purchases
-	Customer_favourate_products
+	Customers |
+	Products| 
+	Employees | 
+	Purchases |
+	Address  
+	Brands |
+	Category |
+	Customer_purchases |
+	Customer_favourate_products |
 	Reviews
 
 Created relationships between tables, defined primary keys and foregin keys. 
