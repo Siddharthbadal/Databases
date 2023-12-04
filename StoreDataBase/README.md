@@ -8,7 +8,7 @@ Tables:
 	Products| 
 	Employees | 
 	Purchases |
-	Address  
+	Address | 
 	Brands |
 	Category |
 	Customer_purchases |
