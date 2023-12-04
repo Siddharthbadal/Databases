@@ -1,14 +1,23 @@
 ## Storedb database 
 
-Created a database using MySQL for a small store owner with tables, relationships, diagrams, documentation, users. 
-Most of the process was perfored using MySQL workbench. queries are also included in the files. 
+Built and Designed a database using MySQL for a  store owner with multiple tables, relationships, diagrams, documentation, users. 
+Most of the process was performed using MySQL workbench.
 
 Tables:
-	customers
-	products
-	employees
-	purchases
+	Customers
+	Products
+	Employees
+	Purchases
+	Address
+	Brands
+	Category
+	Customer_purchases
+	Customer_favourate_products
+	Reviews
 
-Files include a document with essential information. ER model files, DDL and DML queries. This is a on going project where future updtes and changes will be perfored as required. 
+Created relationships between tables, defined primary keys and foregin keys. 
+
+Preapare a document with essential information. ER model files, DDL and DML queries. This is a on going project where future updtes and changes will be perfored as required. 
 	
 Tools: MySQL
+
