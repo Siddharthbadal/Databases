@@ -21,3 +21,6 @@ Preapare a document with essential information. ER model files, DDL and DML quer
 	
 Tools: MySQL
 
+
+![database](https://github.com/Siddharthbadal/Databases/assets/55015090/cefa39b2-7829-482f-906f-815c38415308)
+
