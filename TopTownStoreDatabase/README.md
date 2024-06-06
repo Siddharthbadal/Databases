@@ -1,4 +1,4 @@
-# Database Design and Creation For a Retail  Store
+# Database Design and Development For a Retail  Store
 
 ### Project Overview
 Client apprached me to create a database for his retail business. and asked to design a database with tables and mutliple constraints, 
