@@ -1,5 +1,3 @@
-# Database 
+# Database Development with Data Analysis 
 
-
-This repository is to show the databases I built and desgined using mysql or postgresql. 
-Each database is with a documantation file that has all the essintial detilas about the database. 
+Repo for database development and data anslysis. 
